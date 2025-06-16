@@ -1,0 +1,3 @@
+/Users/samu/Desktop/TFG_entrega/build/CMakeFiles/main.dir
+/Users/samu/Desktop/TFG_entrega/build/CMakeFiles/edit_cache.dir
+/Users/samu/Desktop/TFG_entrega/build/CMakeFiles/rebuild_cache.dir
