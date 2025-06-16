@@ -1,5 +1,0 @@
-Ejecución 1:
-Solución:    0.384967    0.116771 -0.00928013 0.000194011 4.85639e-18
-Fitness: -10393
-Tiempo: 753.773 segundos
-
