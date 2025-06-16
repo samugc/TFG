@@ -151,10 +151,13 @@ void computeBoundsFromData(
 //                                           ERRORES                                              //
 /**************************************************************************************************/
 
-
-
-
-
+double computeRAE(const VectorXd& sample, const VectorXd& estimated) {
+    double sum = 0.0;
+    for (int i = 0; i < N; ++i) {
+        sum += abs((sample(i) - estimated(i)) / sample(i));
+    }
+    return sum / N;
+}
 
 /**************************************************************************************************/
 //                                            MAIN                                                //
