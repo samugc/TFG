@@ -22,16 +22,16 @@ Se ha diseñado e implementado un conjunto de algoritmos de optimización para a
 
 ## Cómo usar
 
-# Clonar el repositorio
-git clone https://github.com/samugc/TFG_codigo.git
+### Clonar el repositorio
+git clone https://github.com/samugc/TFG_codigo.git \\
 cd TFG_codigo
 
-# Compilar (usando CMake, por ejemplo)
-mkdir build && cd build
-cmake ..
+### Compilar (usando CMake, por ejemplo)
+mkdir build && cd build  \\
+cmake .. \\
 make
 
-# Ejecutar
+### Ejecutar
 ./main
 
 ## 📊 Análisis estadístico
