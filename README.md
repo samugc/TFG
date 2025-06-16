@@ -22,7 +22,6 @@ Se ha diseñado e implementado un conjunto de algoritmos de optimización para a
 
 ## Cómo usar
 
-```bash
 # Clonar el repositorio
 git clone https://github.com/samugc/TFG_codigo.git
 cd TFG_codigo
